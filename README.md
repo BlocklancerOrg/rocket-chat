@@ -14,3 +14,6 @@
 # rocket-chat
 Official Blocklancer Rocket.Chat channel
 
+# More information
+[https://blocklancer.net/](https://blocklancer.net/)
+
